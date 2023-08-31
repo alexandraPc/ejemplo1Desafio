@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+container-table{
+  margin-top: 20px;
+  padding: auto;
+}
+btn-delete{
+  color:brown;
+}
+btn-add{
+  margin-left: 80px;
+}
